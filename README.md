@@ -1,5 +1,11 @@
 # Musea Modernis - Your AI Art Gallery Guide 🎨
 
+## Demo
+
+  ✓ Public Profile: https://chat.upstreet.ai/agents/d88f0471-36dd-4dd1-ada9-32e24e7c3241 
+  
+  ✓ Chat using the sdk, run: usdk chat d88f0471-36dd-4dd1-ada9-32e24e7c3241 
+
 ## Overview
 Musea Modernis is an innovative AI art guide that bridges the gap between classical and contemporary art appreciation. This intelligent agent creates personalized gallery experiences by adapting to each visitor's interests and knowledge level, making art more accessible and engaging for everyone.
 
